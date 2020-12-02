@@ -1,0 +1,34 @@
+﻿  Graph.cpp
+C:\Users\bogda\source\repos\GUI\GUI\Graph.h(244,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(61,26): warning C4244: '=': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(62,26): warning C4244: '=': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(176,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(176,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(177,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(177,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(178,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(178,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(179,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(179,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(198,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(198,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(199,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(199,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(200,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(200,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(201,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(201,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(222,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(222,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(229,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\bogda\source\repos\GUI\GUI\Graph.cpp(229,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GUI.vcxproj -> C:\Users\bogda\source\repos\GUI\Debug\GUI.exe
